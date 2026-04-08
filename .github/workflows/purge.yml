@@ -1,0 +1,13 @@
+name: Refresh CDN Cache
+on:
+  push:
+    paths:
+      - 'latestjobs.json' # This triggers only when you update this file
+
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Purge jsDelivr Cache
+        run: |
+          curl -i https://purge.jsdelivr.net/gh/JigPro/sarkariexam@main/latestjobs.json
