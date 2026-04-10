@@ -12,4 +12,30 @@
     "j_age_max": "32 Years",
     "j_eligibilty": "Bachelor Degree..."
   }
+  {
+    "j_title": "Railway Online Form",
+    "j_info": "Railway commission  (RRC)",
+    "j_post_date": "12 Jan",
+    "j_apply_date": "24/06/2026",
+    "j_last_date": "24/07/2026",
+    "j_fee_gen": "₹100",
+    "j_fee_obc": "₹100",
+    "j_fee_sc_st": "₹0",
+    "j_age_min": "18 Years",
+    "j_age_max": "32 Years",
+    "j_eligibilty": "Bachelor Degree..."
+  }
+   {
+    "j_title": "ICSIL DEO, MTS Online Form 2026",
+    "j_info": "ICSIL",
+    "j_post_date": "21 Dec",
+    "j_apply_date": "24/06/2026",
+    "j_last_date": "24/07/2026",
+    "j_fee_gen": "₹100",
+    "j_fee_obc": "₹100",
+    "j_fee_sc_st": "₹0",
+    "j_age_min": "18 Years",
+    "j_age_max": "32 Years",
+    "j_eligibilty": "Bachelor Degree..."
+  }
 ]
