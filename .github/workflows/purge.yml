@@ -9,5 +9,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Purge jsDelivr Cache
-        run: |
-        curl -i https://purge.jsdelivr.net/gh/JigPro/sarkariexam@main/latestjobs.json
+        run: curl -i https://purge.jsdelivr.net/gh/JigPro/sarkariexam@main/latestjobs.json
