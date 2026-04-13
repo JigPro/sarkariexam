@@ -15,9 +15,9 @@
     "j_age_min": "18 Years",
     "j_age_max": "32 Years",
     "j_eligibilty": "Bachelor Degree..."
-    "j_offical_notification_link": "",
-    "j_offical_admitcard_link": "",
-    "j_offical_result_link": ""
+    "j_offical_notification_link": "null",
+    "j_offical_admitcard_link": "null",
+    "j_offical_result_link": "null"
   },
   {
     "j_title": "Railway Online Form",
