@@ -1,7 +1,10 @@
 [
   {
     "j_title": "SSC CGL 2024 Online Form",
+    "j_admitcard_title": "SSC CGL 2024 Admitcard",
+    "j_result_title": "SSC CGL 2024 Result",
     "j_new": true,
+    "J_category": "SSC",
     "j_info": "Staff Selection Commission (SSC)",
     "j_post_date": "24 June",
     "j_apply_date": "24/06/2026",
@@ -12,6 +15,9 @@
     "j_age_min": "18 Years",
     "j_age_max": "32 Years",
     "j_eligibilty": "Bachelor Degree..."
+    "j_offical_notification_link": "",
+    "j_offical_admitcard_link": "",
+    "j_offical_result_link": ""
   },
   {
     "j_title": "Railway Online Form",
