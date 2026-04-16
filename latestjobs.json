@@ -5,14 +5,10 @@
     "j_admitcard_title": "SSC CGL 2024 Admitcard",
     "j_result_title": "SSC CGL 2024 Result",
     "j_answerkey_title": "SSC CGL 2024 Answer Key",
+    "admission_title": "IIT Form Apply",
 
     "category": "SSC",
     "j_info": "Staff Selection Commission (SSC)",
-
-    "has_apply": true,
-    "has_admitcard": true,
-    "has_result": true,
-    "has_answerkey": true,
 
     "j_post_date": "24 June",
     "j_apply_date": "24/06/2026",
