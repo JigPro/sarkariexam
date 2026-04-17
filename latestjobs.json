@@ -1,11 +1,13 @@
 [
   {
     "j_new": true,
+    "marquee_switch": true,
     "j_title": "SSC CGL 2024 Online Form",
     "j_admitcard_title": "SSC CGL 2024 Admitcard",
     "j_result_title": "SSC CGL 2024 Result",
     "j_answerkey_title": "SSC CGL 2024 Answer Key",
-    "admission_title": "IIT Form Apply",
+    "admission_title": "",
+    "marquee_title": "",
 
     "filter_title": "ANSWERS KEY",
     "category": "SSC",
