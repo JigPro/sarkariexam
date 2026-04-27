@@ -6,6 +6,10 @@
 
   {
     "j_new": true,
+    "j_title_bool": true,
+    "j_admitcard_bool": true,
+    "j_result_bool": true,
+    "j_answerkey_bool": true,
     "j_title": "SSC CGL 2024 Online Form",
     "j_admitcard_title": "SSC CGL 2024 Admitcard",
     "j_result_title": "SSC CGL 2024 Result",
@@ -35,7 +39,16 @@
   },
 
   {
+    "j_title_bool": true,
+    "j_admitcard_bool": true,
+    "j_result_bool": true,
+    "j_answerkey_bool": true,     
     "j_title": "Railway Group D 2026 Online Form",
+    "j_admitcard_title": "",
+    "j_result_title": "",
+    "j_answerkey_title": "",
+    "admission_title": "",
+    
    
     "filter_title": "ADMISSIONS",
     "category": "Railway",
