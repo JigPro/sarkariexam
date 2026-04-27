@@ -40,7 +40,7 @@
 
   {
     "j_title_bool": true,
-    "j_admitcard_bool": true,
+    "j_admitcard_bool": false,
     "j_result_bool": true,
     "j_answerkey_bool": true,     
     "j_title": "Railway Group D 2026 Online Form",
