@@ -1,7 +1,7 @@
 [
   {
     "marquee": {
-      "switch": false,
+      "switch": true,
       "title": "New jobs released this week!"
     } 
   },
